@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/kasia/OneDrive/Pulpit/Java/JavaFinal3laby/Rakoczy.Katarzyna.cw3/lab1-rakoczy/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/kasia/OneDrive/Pulpit/Java/JavaFinal3laby/Rakoczy.Katarzyna.cw3/lab1-rakoczy/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'DerivativeOfPolynomial 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'DerivativeOfPolynomial 1.0-SNAPSHOT API'
+rakoczy.controllers
+rakoczy.models
+rakoczy.views
+swing
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\src\main\java = 1713130094295
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\allclasses-index.html = 1713130152234
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\allpackages-index.html = 1713130152244
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\element-list = 1713130152024
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\help-doc.html = 1713130152284
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\index-all.html = 1713130152274
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\index.html = 1713130152214
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\jquery-ui.overrides.css = 1713130152314
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\member-search-index.js = 1713130152244
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\module-search-index.js = 1713130152244
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\overview-summary.html = 1713130152274
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\overview-tree.html = 1713130152204
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\package-search-index.js = 1713130152244
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\script.js = 1713130152286
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\search.js = 1713130152294
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\serialized-form.html = 1713130152134
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\stylesheet.css = 1713130152286
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\tag-search-index.js = 1713130152254
+C:\Users\kasia\OneDrive\Pulpit\Java\JavaFinal3laby\Rakoczy.Katarzyna.cw3\lab1-rakoczy\target\site\apidocs\type-search-index.js = 1713130152244
