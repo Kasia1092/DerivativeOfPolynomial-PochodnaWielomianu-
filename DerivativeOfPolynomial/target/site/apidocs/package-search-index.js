@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"rakoczy.controllers"},{"l":"rakoczy.models"},{"l":"rakoczy.views"},{"l":"swing"}];updateSearchResults();
