@@ -2,19 +2,19 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package rakoczy.controllers;
+package kr.controllers;
 
-import rakoczy.views.PolynomialView;
-import rakoczy.models.Polynomial;
-import rakoczy.models.Derivative;
-import rakoczy.models.Calculations;
-import rakoczy.models.PolynomialExceptions;
+import kr.views.PolynomialView;
+import kr.models.Polynomial;
+import kr.models.Derivative;
+import kr.models.Calculations;
+import kr.models.PolynomialExceptions;
 import java.util.Scanner;
 
 /**
  * PolynomialController class is the class that controls the data flow. It acts 
  * on classes from models and views packages and initializes their functions.
- * @author      Katarzyna Rakoczy 
+ * @author      kr 
  * @version     1.0
  */
 @SuppressWarnings("unused")

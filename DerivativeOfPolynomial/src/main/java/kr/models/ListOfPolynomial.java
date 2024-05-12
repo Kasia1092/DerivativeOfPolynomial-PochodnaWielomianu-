@@ -2,14 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
-package rakoczy.models;
+package kr.models;
 
 import java.util.ArrayList;
 
 /**
  * ListOfPolynomial interface is the interface for the class that operates on the 
  * arrays that contains polynomials.
- * @author      Katarzyna Rakoczy 
+ * @author      kr
  * @version     1.0
  */
 public interface ListOfPolynomial {

@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package rakoczy.models;
+package kr.models;
 
 import java.util.ArrayList;
 import java.util.stream.Collectors;
@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 /**
  * The class that performs the calculations on arrays with elements of polynomial and derivatives of polynomial.
  * It creates the deriative and adds the values of arrays with the same powers.
- * @author      Katarzyna Rakoczy 
+ * @author      kr
  * @version     3.0
  */
 public class Calculations {

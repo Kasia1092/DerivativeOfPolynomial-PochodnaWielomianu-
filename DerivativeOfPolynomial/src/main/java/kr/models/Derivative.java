@@ -2,14 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package rakoczy.models;
+package kr.models;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 
 /**
  * Deriative class is the class that operates on ArrayList which contains the elements of derivative of a polynomial.
- * @author      Katarzyna Rakoczy 
+ * @author      kr 
  * @version     2.0
  */
 public class Derivative implements ListOfPolynomial {

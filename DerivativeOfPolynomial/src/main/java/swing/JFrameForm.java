@@ -8,7 +8,7 @@
  * This is the program that calculates the derivative of a polynomial. It 
  * allows you to add elements to your polynomial. It shows you elements of the polynomial
  * that you give and the derivative of this polynomial.
- * @author Katarzyna Rakoczy 
+ * @author kr
  * @version 3.0
  */
 
@@ -22,10 +22,10 @@ import javax.swing.InputMap;
 import javax.swing.JComponent;
 import javax.swing.JOptionPane;
 import javax.swing.KeyStroke;
-import rakoczy.models.Calculations;
-import rakoczy.models.Polynomial;
-import rakoczy.models.Derivative;
-import rakoczy.models.PolynomialExceptions;
+import kr.models.Calculations;
+import kr.models.Polynomial;
+import kr.models.Derivative;
+import kr.models.PolynomialExceptions;
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeModel;
 

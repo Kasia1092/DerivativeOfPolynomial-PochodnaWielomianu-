@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"rakoczy.controllers"},{"l":"rakoczy.models"},{"l":"rakoczy.views"},{"l":"swing"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"kr.controllers"},{"l":"kr.models"},{"l":"kr.views"},{"l":"swing"}];updateSearchResults();

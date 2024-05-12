@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package rakoczy.models;
+package kr.models;
 
 /**
  * PolynomialExceptions class contains customized exceptions used in the program.
- * @author      Katarzyna Rakoczy 
+ * @author      kr
  * @version     3.0
  */
 public class PolynomialExceptions extends Exception {   
