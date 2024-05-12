@@ -1,10 +1,10 @@
-# DerivativeOfPolynomial
-<<<<<<< HEAD
-My project, written in Java, calculates derivatives of polynomials.
+# Polynomial Derivative Calculator
+##Kalkulator pochodnej wielomianu
 
-Test
-=======
-My project, written in Java, calculates derivatives of polynomials.\
+###Description
+The Polynomial Derivative Calculator is a Java Swing application that allows users to calculate the derivative of a polynomial expression. Users can input polynomial coefficients and powers, and the application will compute the corresponding derivative.
 
-The controller and view class is unused.
->>>>>>> 53d7408eae44b5dd69e3b44d255120f7c87c3e8d
+###Project Evolution
+Initially, the Polynomial Derivative Calculator was implemented using the Model-View-Controller (MVC) architecture. However, as the project evolved, the functionality of the View and Controller classes was integrated into the JFrameForm Swing class. This simplification allowed for better cohesion and reduced complexity.
+The controller and view class is now unused.
+
